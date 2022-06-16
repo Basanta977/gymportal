@@ -1,0 +1,34 @@
+*{
+    margin: 0%; padding: 0%; box-sizing: border-box;
+}
+body{
+    background: skyblue;  
+} 
+.container{width: 900px; margin: auto; background: white;}
+.l{float: left;} .r{float: right;} .cc{clear: both;}
+.ph{text-align: right;} 
+ph p{padding: 10px;}
+header{
+    border-bottom: 10px solid #D7D7D7;
+}
+.banner img{
+    width: 100%;
+}
+section{
+    padding: 10px;
+}
+.pb-5{
+    padding-bottom: 10px;
+}
+main{
+    width:67%;
+}
+footer{
+    background: #064570; color: white; padding: 5px;
+}
+ul{
+    list-style: none;
+}
+nav li{
+    display: inline;
+}
